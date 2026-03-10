@@ -2,7 +2,7 @@
 
 # anagram-1587115620
 
-![Platform](https://img.shields.io/badge/Platform-GeeksForGeeks-2f8d46?style=flat-square&logo=geeksforgeeks&logoColor=white) ![Language](https://img.shields.io/badge/Language-C%2B%2B-58a6ff?style=flat-square) ![Status](https://img.shields.io/badge/Status-Accepted-2ea043?style=flat-square&logo=checkmarx&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-GeeksForGeeks-2f8d46?style=flat-square&logo=geeksforgeeks&logoColor=white) ![Language](https://img.shields.io/badge/Language-C%2B%2B-58a6ff?style=flat-square) ![Difficulty](https://img.shields.io/badge/Difficulty-EasyAccuracy-2ea043?style=flat-square) ![Status](https://img.shields.io/badge/Status-Accepted-2ea043?style=flat-square&logo=checkmarx&logoColor=white)
 
 </div>
 
@@ -12,6 +12,11 @@
 
 | Attribute | Value |
 |-----------|-------|
+| Difficulty    | EasyAccuracy  |
+| Accuracy      | 44.93%    |
+| Submissions   | 472K+ |
+| Points        | 2      |
+| Average Time  | 20m |
 | Language      | C++    |
 | Link          | [View on GFG](https://www.geeksforgeeks.org/problems/anagram-1587115620/0) |
 
@@ -71,5 +76,5 @@ Anagram Difficulty: EasyAccuracy: 44.93%Submissions: 472K+Points: 2Average Time:
 ---
 
 <div align="center">
-<sub>Auto-pushed by <strong>GFGHub</strong> &nbsp;|&nbsp; Tue, 10 Mar 2026 06:10:57 GMT</sub>
+<sub>Auto-pushed by <strong>GFGHub</strong> &nbsp;|&nbsp; Tue, 10 Mar 2026 06:12:48 GMT</sub>
 </div>
