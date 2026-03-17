@@ -71,5 +71,5 @@ Given a sorted array arr consisting of 0s and 1s. The task is to find the index 
 ---
 
 <div align="center">
-<sub>Auto-pushed by <a href="https://github.com/sidharth756/GFG-Hub"><strong>GFGHub</strong></a> &nbsp;·&nbsp; Made by <a href="https://github.com/sidharth756">sidharth756</a> &nbsp;|&nbsp; Tue, 17 Mar 2026 08:34:34 GMT</sub>
+<sub>Auto-pushed by <a href="https://github.com/sidharth756/GFG-Hub"><strong>GFGHub</strong></a> &nbsp;·&nbsp; Made by <a href="https://github.com/sidharth756">sidharth756</a> &nbsp;|&nbsp; Tue, 17 Mar 2026 08:41:22 GMT</sub>
 </div>
